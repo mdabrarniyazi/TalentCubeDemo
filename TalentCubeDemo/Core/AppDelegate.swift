@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TalentCubeDemo
 //
-//  Created by Abrar Niyazi on 01/12/17.
+//  Created by Abrar Niyazi on 02/12/17.
 //  Copyright © 2017 Abrar Niyazi. All rights reserved.
 //
 
